@@ -1,0 +1,23 @@
+﻿variable,description,type,notes
+participant_id,Unique participant identifier,Text,Original field
+full_name,Synthetic participant name,Text,Original field
+email,Participant email. Invalid emails were set to missing.,Text,Cleaned field
+email_valid,Indicates whether the original email had a valid format.,Boolean,Derived field
+state,"Participant state, standardized to consistent labels.",Categorical,Cleaned field
+age,Participant age. Values outside 17-65 were set to missing.,Numeric,Cleaned field
+gender,Standardized gender category.,Categorical,Cleaned field
+education_level,Standardized education level.,Categorical,Cleaned field
+program,Training program name.,Categorical,Original field
+start_date,Program start date in YYYY-MM-DD format.,Date,Cleaned field
+end_date,Program end date in YYYY-MM-DD format.,Date,Cleaned field
+program_duration_days,Duration between start_date and end_date.,Numeric,Derived field
+status,Standardized participant status.,Categorical,Cleaned field
+attendance_pct,Attendance percentage. Values outside 0-100 were set to missing.,Numeric,Cleaned field
+final_score,Final score. Values outside 0-100 were set to missing.,Numeric,Cleaned field
+employed_before,Employment status before the program.,Categorical,Cleaned field
+employed_after,Employment status after the program.,Categorical,Cleaned field
+employment_change,Derived employment transition category.,Categorical,Derived field
+income_before,Monthly income before the program.,Numeric,Cleaned field
+income_after,Monthly income after the program.,Numeric,Cleaned field
+income_change,Difference between income_after and income_before.,Numeric,Derived field
+satisfaction_score,Participant satisfaction score from 1 to 5.,Numeric,Cleaned field

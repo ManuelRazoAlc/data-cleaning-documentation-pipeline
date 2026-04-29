@@ -1,0 +1,266 @@
+﻿participant_id,full_name,email,state,age,gender,education_level,program,start_date,end_date,status,attendance_pct,final_score,employed_before,employed_after,income_before,income_after,satisfaction_score
+P0001,Participant 1,participant1@gmail.com,EdoMex,26,Male,Licenciatura,Excel for Business,2025-08-24,2025-10-12,completed,75.5,79.2,,Sí,"$5,000",8957.24,
+P0002,Participant 2,participant2@gmail.com,Chiapas,28,No especificado,Secundaria,Data Analytics,2025-02-20,2025-05-05,completed,31.0,93.4,No,,3229.94,1887.79,2
+P0003,Participant 3,participant3@gmail.com,Oaxaca,16,Male,,Excel for Business,2025-02-04,2025-05-12,,112.4,,No,no,8298.56,10901.11,5
+P0004,Participant 4,participant4@gmail.com,Cd. México,17,No especificado,Posgrado,Employability Skills,2025-07-25,2025-11-08,COMPLETED,150.0,65.3,no,No,7246.0,8137.07,2
+P0005,Participant 5,participant5@yahoo.com,Ciudad de México,25,Female,,Data Analytics,2025-03-04,2025-04-03,Abandoned,107.6,63.9,Sí,Yes,7303.76,8425.39,
+P0006,Participant 6,participant6@yahoo.com,Chiapas,22,Mujer,Secundaria,Digital Marketing,2025-06-21,2025-10-04,completed,81.8,89.2,no,No,4885.63,4700.23,4
+P0007,Participant 7,participant7@gmail.com,Oaxaca,29,Mujer,Posgrado,Python Basics,2025-05-31,2025-07-04,In progress,92.3,122.5,No,no,3199.02,1845.27,
+P0008,Participant 8,participant8@gmail.com,CDMX,30,Male,Universidad,Data Analytics,2025-08-19,2025-11-08,In progress,87.0,95.9,no,no,5742.69,8686.25,
+P0009,Participant 9,participant9@example.org,EdoMex,15,,Posgrado,Excel for Business,2025-04-23,2025-07-13,Abandoned,82.7,65.0,no,,4448.39,5358.08,3
+P0010,Participant 10,participant10@yahoo.com,Yucatán,26,Female,Bachillerato,Python Basics,2025-06-09,2025-09-06,In progress,105.0,70.1,No,no,5019.1,6761.89,2
+P0011,Participant 11,participant11@example.org,EdoMex,28,,Licenciatura,Employability Skills,06/07/2025,2025-08-30,Completed,61.6,89.0,Yes,Yes,,10393.17,2
+P0012,Participant 12,participant12@gmail.com,Jalisco,20,No especificado,Universidad,Data Analytics,2025-04-09,2025-05-05,In progress,87.7,71.0,Yes,yes,3541.87,4162.16,5
+P0013,Participant 13,participant13@yahoo.com,Estado de México,14,,,Digital Marketing,2025-06-01,2025-09-03,COMPLETED,81.3,85.1,yes,yes,7454.56,9594.05,3
+P0014,Participant 14,participant14@outlook.com,Estado de México,25,,Universidad,Python Basics,2025-03-09,2025-04-30,,88.2,80.0,No,No,0,-245.72,5
+P0015,Participant 15,participant15@example.org,Jalisco,29,Male,Bachillerato,Python Basics,2025-01-21,2025-03-11,,95.3,109.3,No,No,5867.44,7046.84,1
+P0016,Participant 16,participant16@gmail.com,Cd. México,26,M,,Python Basics,2025-02-06,2025-03-21,completed,128.1,-5.0,no,no,1041.87,1804.23,4
+P0017,Participant 17,participant17@example.org,Chiapas,18,,Universidad,Python Basics,2025-08-06,2025-09-11,Completed,67.3,65.9,yes,,1445.76,579.86,
+P0018,Participant 18,participant18@yahoo.com,Yucatán,32,Hombre,Preparatoria,Employability Skills,2025-04-08,2025-07-02,,66.0,61.7,no,No,4110.14,"$7,200",2
+P0019,Participant 19,participant19gmail.com,EdoMex,24,,Bachillerato,Python Basics,2025-04-09,2025-06-22,completed,,86.3,,Sí,799.22,4177.94,
+P0020,Participant 20,participant20@yahoo.com,Yucatán,23,,Licenciatura,Excel for Business,2025-08-27,19/10/2025,Abandoned,76.1,76.2,No,Sí,9953.23,9933.88,
+P0021,Participant 21,participant21@gmail.com,Chiapas,25,Hombre,,Data Analytics,2025-07-09,05/10/2025,completed,88.4,-5.0,No,,4342.69,4318.68,3
+P0022,Participant 22,participant22.com,Estado de México,22,F,Licenciatura,Python Basics,2025-01-01,2025-03-30,completed,73.5,67.0,Sí,no,5178.97,5540.77,1
+P0023,Participant 23,participant23@example.org,Ciudad de México,31,,Bachillerato,Excel for Business,2025-01-12,06/05/2025,,87.6,84.7,no,yes,4822.59,6925.16,5
+P0024,Participant 24,participant24@outlook.com,EdoMex,30,,,Excel for Business,2025-04-30,2025-06-24,In progress,57.2,100.8,yes,Yes,10378.2,11506.05,
+P0025,Participant 25,participant25@yahoo.com,Nuevo León,34,Hombre,,Python Basics,2025-04-09,2025-05-28,,44.3,77.6,,No,4130.69,2569.37,1
+P0026,Participant 26,participant26@outlook.com,Ciudad de México,26,Hombre,Secundaria,Python Basics,2025-04-21,2025-05-26,In progress,105.0,92.2,no,Yes,6310.42,7276.16,5
+P0027,Participant 27,participant27@outlook.com,CDMX,30,Female,Secundaria,Excel for Business,2025-03-17,2025-04-14,completed,92.2,81.9,,No,3256.86,6212.08,1
+P0028,Participant 28,participant28@yahoo.com,Ciudad de México,23,,Licenciatura,Employability Skills,2025-08-05,2025-10-08,,70.2,84.4,Sí,Sí,1879.79,546.36,2
+P0029,Participant 29,participant29@outlook.com,Chiapas,25,,Licenciatura,Digital Marketing,2025-07-09,29/09/2025,,104.6,,no,No,2993.68,4774.57,2
+P0030,Participant 30,participant30@gmail.com,Yucatán,19,No especificado,Posgrado,Digital Marketing,2025-02-18,2025-03-23,,-10.0,89.2,no,Sí,7608.94,6889.56,4
+P0031,Participant 31,participant31@gmail.com,Yucatán,32,Female,Secundaria,Digital Marketing,2025-01-28,2025-05-19,Abandoned,65.4,80.3,Sí,,3998.49,6031.39,
+P0032,Participant 32,participant32@outlook.com,Estado de México,15,Male,,Excel for Business,30/01/2025,2025-02-23,,66.4,62.8,Sí,No,9711.71,7797.14,2
+P0033,Participant 33,participant33@yahoo.com,Puebla,13,Male,Preparatoria,Digital Marketing,2025-07-21,2025-10-31,completed,102.4,80.6,Yes,Sí,8594.54,9803.98,1
+P0034,Participant 34,participant34@gmail.com,Ciudad de México,24,Male,Bachillerato,Digital Marketing,2025-05-03,2025-07-11,,53.4,88.4,no,,6330.79,6183.51,4
+P0035,Participant 35,participant35@example.org,CDMX,22,M,,Data Analytics,2025-07-10,2025-11-04,,105.0,89.7,yes,,8921.58,12026.74,3
+P0036,Participant 36,participant36@example.org,EdoMex,13,No especificado,,Excel for Business,2025-02-22,2025-05-18,In progress,95.7,86.0,,Yes,1241.54,2341.55,3
+P0037,Participant 37,participant37@outlook.com,CDMX,26,,Secundaria,Employability Skills,2025-01-01,2025-01-25,Completed,61.1,81.2,No,Sí,7887.86,8133.4,1
+P0038,Participant 38,participant38@example.org,Oaxaca,19,,Bachillerato,Data Analytics,2025-06-29,2025-10-05,completed,76.2,82.5,,,5219.18,6021.43,
+P0039,Participant 39,participant39@outlook.com,Ciudad de México,25,Female,Licenciatura,Digital Marketing,29/04/2025,2025-06-15,completed,106.7,92.4,no,Sí,6677.59,7232.81,5
+P0040,Participant 40,participant40@outlook.com,Chiapas,29,F,Preparatoria,Digital Marketing,2025-03-24,2025-05-24,Abandoned,108.4,92.6,,no,11435.82,14461.98,3
+P0041,Participant 41,participant41@outlook.com,Yucatán,12,Hombre,Licenciatura,Employability Skills,24/02/2025,2025-03-24,,94.9,77.7,,,4903.77,5416.33,2
+P0042,Participant 42,participant42@yahoo.com,Puebla,21,Hombre,Preparatoria,Data Analytics,2025-03-20,2025-06-22,,73.7,71.1,No,No,3690.0,3931.36,5
+P0043,Participant 43,participant43@gmail.com,Ciudad de México,20,,Licenciatura,Python Basics,2025-06-10,2025-07-05,Dropped,60.0,76.5,,No,4733.21,3882.75,2
+P0044,Participant 44,participant44@yahoo.com,Ciudad de México,25,Male,Posgrado,Employability Skills,2025-02-18,2025-05-17,COMPLETED,96.1,75.1,Yes,Yes,3691.65,9272.58,4
+P0045,Participant 45,participant45@yahoo.com,Chiapas,25,,Secundaria,Python Basics,2025-01-05,2025-04-17,Dropped,79.6,87.9,,yes,9450.34,9580.21,
+P0046,Participant 46,participant46@gmail.com,Cd. México,27,Mujer,Preparatoria,Data Analytics,2025-08-13,2025-11-06,COMPLETED,99.6,77.1,yes,Sí,8128.98,7810.6,3
+P0047,Participant 47,participant47@yahoo.com,Chiapas,15,Male,Posgrado,Excel for Business,2025-07-15,2025-10-28,Dropped,98.6,89.6,no,Sí,11176.73,11549.88,5
+P0048,Participant 48,participant48@example.org,EdoMex,18,F,Preparatoria,Digital Marketing,2025-06-04,2025-09-26,Dropped,37.6,90.1,,Sí,2953.45,9510.6,1
+P0049,Participant 49,participant49@gmail.com,Jalisco,31,M,Universidad,Excel for Business,2025-08-24,2025-12-21,,84.4,77.1,yes,no,1869.49,2585.59,5
+P0050,Participant 50,participant50@example.org,Oaxaca,21,F,Preparatoria,Data Analytics,2025-08-03,2025-10-18,COMPLETED,67.2,97.6,No,,4676.82,5030.31,5
+P0051,Participant 51,participant51@gmail.com,Jalisco,14,,Bachillerato,Digital Marketing,2025-07-06,2025-09-14,COMPLETED,103.5,87.7,no,Yes,8797.1,7196.75,1
+P0052,Participant 52,participant52@yahoo.com,CDMX,80,Hombre,Licenciatura,Excel for Business,2025-03-27,2025-07-16,completed,96.7,73.6,No,Sí,6613.5,7839.08,3
+P0053,Participant 53,participant53@example.org,Chiapas,18,M,Licenciatura,Excel for Business,2025-07-13,2025-11-01,COMPLETED,49.0,76.6,Sí,No,189.75,1935.34,4
+P0054,Participant 54,participant54@gmail.com,Cd. México,30,Hombre,,Excel for Business,2025-05-15,2025-09-04,Dropped,67.8,79.3,yes,No,9037.41,10462.49,2
+P0055,Participant 55,participant55@gmail.com,Nuevo León,24,F,,Excel for Business,2025-07-01,2025-10-13,In progress,52.6,93.6,,No,5931.4,9381.05,
+P0056,Participant 56,participant56@example.org,Jalisco,26,Mujer,Licenciatura,Excel for Business,2025-05-10,2025-08-04,Completed,90.4,87.6,Sí,no,6818.46,8489.95,
+P0057,Participant 57,participant57@outlook.com,Nuevo León,31,Hombre,Universidad,Data Analytics,2025-08-23,2025-09-15,Dropped,38.9,93.7,Yes,No,5422.6,10502.03,3
+P0058,Participant 58,participant58@example.org,Yucatán,28,,Posgrado,Data Analytics,2025-03-27,2025-07-09,completed,80.2,97.7,No,Yes,5327.55,1886.76,3
+P0059,Participant 59,participant59@outlook.com,Chiapas,28,Mujer,Secundaria,Data Analytics,25/04/2025,2025-06-09,,54.0,78.1,No,,8357.66,10226.53,3
+P0060,Participant 60,participant60.com,Nuevo León,23,,Preparatoria,Digital Marketing,2025-07-30,2025-11-25,In progress,91.5,100.0,,No,5375.48,4561.07,3
+P0061,Participant 61,participant61@example.org,CDMX,26,,Licenciatura,Employability Skills,28/06/2025,2025-10-19,,59.1,69.4,,No,1048.61,"$7,200",1
+P0062,Participant 62,participant62@yahoo.com,Chiapas,23,Hombre,Preparatoria,Employability Skills,2025-07-19,2025-09-01,Dropped,81.9,105.4,yes,,8711.33,11151.6,
+P0063,Participant 63,participant63@example.org,Jalisco,24,No especificado,Universidad,Python Basics,11/08/2025,2025-12-02,COMPLETED,71.1,58.6,,Yes,4801.25,5654.25,2
+P0064,Participant 64,participant64@example.org,Yucatán,23,No especificado,Bachillerato,Python Basics,2025-04-30,2025-05-23,Dropped,55.1,99.0,yes,Sí,0,3536.72,4
+P0065,Participant 65,participant65@yahoo.com,EdoMex,25,Male,,Python Basics,03/07/2025,2025-08-01,Abandoned,-10.0,83.0,yes,yes,8163.7,8432.58,4
+P0066,Participant 66,,Yucatán,32,Male,,Excel for Business,2025-05-23,2025-07-30,completed,77.8,80.4,No,No,1521.71,,3
+P0067,Participant 67,participant67@yahoo.com,Ciudad de México,20,Male,Universidad,Excel for Business,23/02/2025,2025-05-27,In progress,92.4,84.9,No,Yes,7820.24,8845.46,2
+P0068,Participant 68,participant68@gmail.com,CDMX,24,Male,,Python Basics,2025-03-23,2025-06-12,completed,86.4,88.1,Yes,yes,7078.62,12695.54,4
+P0069,Participant 69,participant69@example.org,Puebla,95,No especificado,Licenciatura,Excel for Business,2025-07-26,2025-09-23,Completed,90.3,80.4,yes,no,8314.2,N/A,
+P0070,Participant 70,participant70@gmail.com,Nuevo León,23,Male,Bachillerato,Python Basics,2025-02-09,2025-06-06,,78.8,74.4,no,Sí,5608.18,8663.03,1
+P0071,Participant 71,participant71@outlook.com,Ciudad de México,30,,Bachillerato,Digital Marketing,2025-02-14,2025-05-02,Abandoned,79.1,76.4,Sí,No,3124.17,4896.22,
+P0072,Participant 72,participant72@example.org,Oaxaca,20,,Bachillerato,Digital Marketing,2025-08-21,2025-09-26,,,80.2,Sí,Sí,3544.76,3637.73,3
+P0073,Participant 73,participant73@yahoo.com,Oaxaca,22,,Licenciatura,Employability Skills,2025-03-09,2025-06-27,,105.0,96.2,,No,4909.12,7495.89,1
+P0074,Participant 74,participant74@outlook.com,EdoMex,28,Hombre,Posgrado,Python Basics,2025-08-14,2025-10-18,completed,67.4,104.9,no,,8341.51,,2
+P0075,Participant 75,participant75@outlook.com,Estado de México,24,No especificado,Bachillerato,Excel for Business,2025-06-11,2025-08-30,completed,99.0,87.6,yes,yes,6944.54,4820.35,4
+P0076,Participant 76,participant76.com,Oaxaca,20,,,Data Analytics,2025-04-03,2025-06-25,In progress,123.3,62.1,Sí,Sí,5103.36,,
+P0077,Participant 77,participant77@example.org,Chiapas,95,F,,Digital Marketing,2025-03-13,2025-04-12,Completed,53.9,64.9,,Yes,7015.41,9015.79,3
+P0078,Participant 78,participant78@yahoo.com,Nuevo León,18,No especificado,Licenciatura,Digital Marketing,15/02/2025,2025-04-07,In progress,83.9,81.1,Yes,Yes,7849.62,10572.44,3
+P0079,Participant 79,participant79@example.org,Puebla,31,F,,Employability Skills,2025-05-02,2025-06-05,,66.1,94.3,Sí,no,5728.96,4435.29,
+P0080,Participant 80,participant80@outlook.com,Puebla,17,M,Secundaria,Digital Marketing,2025-05-12,2025-06-06,Completed,110.6,86.3,No,no,8123.88,8360.46,1
+P0081,Participant 81,,Cd. México,34,,Bachillerato,Data Analytics,2025-03-23,2025-06-20,Dropped,81.6,74.2,No,yes,4290.29,6431.39,4
+P0082,Participant 82,participant82@yahoo.com,Estado de México,20,,Posgrado,Employability Skills,2025-07-08,2025-08-20,,57.7,88.8,,,4856.56,3053.11,3
+P0083,Participant 83,participant83@example.org,EdoMex,25,Female,,Data Analytics,2025-08-25,2025-10-01,Completed,96.8,94.9,No,,5403.73,7777.91,3
+P0084,Participant 84,participant84@outlook.com,Yucatán,14,Female,Secundaria,Data Analytics,2025-03-11,2025-04-16,In progress,83.8,78.5,no,Sí,7429.25,3501.87,2
+P0085,Participant 85,participant85@gmail.com,Chiapas,16,M,Licenciatura,Excel for Business,2025-01-01,2025-01-25,,98.9,81.4,yes,No,6692.6,8030.88,
+P0086,Participant 86,participant86gmail.com,Chiapas,16,Male,,Employability Skills,24/04/2025,2025-07-30,Abandoned,93.2,96.7,no,,8075.71,9705.53,2
+P0087,Participant 87,participant87@outlook.com,EdoMex,28,Female,Secundaria,Employability Skills,2025-02-14,2025-04-26,,76.5,93.0,,yes,6366.22,"$7,200",4
+P0088,Participant 88,participant88@outlook.com,Ciudad de México,23,Male,Preparatoria,Employability Skills,2025-04-24,2025-08-03,completed,83.0,74.2,No,,7675.17,9767.4,
+P0089,Participant 89,participant89@gmail.com,Jalisco,30,,,Employability Skills,2025-03-18,2025-05-07,completed,99.4,101.6,no,No,2634.14,3718.69,5
+P0090,Participant 90,participant90@gmail.com,Nuevo León,25,,Preparatoria,Digital Marketing,2025-05-23,2025-08-15,Abandoned,96.8,88.8,yes,Sí,5124.86,,
+P0091,Participant 91,participant91@example.org,Cd. México,18,No especificado,Bachillerato,Python Basics,2025-04-27,2025-08-17,Dropped,39.2,101.7,No,Yes,8024.54,10991.72,5
+P0092,Participant 92,participant92@example.org,Puebla,22,No especificado,Universidad,Employability Skills,2025-01-15,2025-04-12,In progress,119.9,90.7,No,no,7397.32,9103.46,
+P0093,Participant 93,participant93@gmail.com,EdoMex,13,,Licenciatura,Digital Marketing,2025-07-22,2025-08-17,,76.2,84.2,no,No,8980.01,8398.68,3
+P0094,Participant 94,,Jalisco,29,M,,Excel for Business,2025-05-03,2025-06-04,Abandoned,80.9,70.8,no,No,"$5,000",9715.24,
+P0095,Participant 95,participant95@yahoo.com,Jalisco,19,Mujer,Universidad,Python Basics,2025-06-13,2025-09-14,Completed,66.1,67.1,No,,3767.74,4436.83,5
+P0096,Participant 96,participant96@gmail.com,Estado de México,31,No especificado,,Python Basics,2025-07-04,2025-08-17,In progress,71.6,-5.0,,yes,7909.7,13088.64,
+P0097,Participant 97,participant97@example.org,Yucatán,15,,,Data Analytics,18/02/2025,2025-05-08,completed,43.6,85.6,,Sí,4164.63,3383.23,3
+P0098,Participant 98,participant98@outlook.com,Nuevo León,19,Male,Universidad,Python Basics,2025-01-08,2025-02-18,Abandoned,84.0,92.0,yes,No,7237.49,11941.27,4
+P0099,Participant 99,participant99@yahoo.com,Nuevo León,18,,Posgrado,Employability Skills,2025-04-14,2025-07-07,,89.3,101.0,no,,4733.05,4972.01,3
+P0100,Participant 100,participant100@yahoo.com,EdoMex,15,Male,Preparatoria,Excel for Business,2025-07-20,2025-10-12,Abandoned,68.5,86.3,No,Sí,3535.03,2338.81,1
+P0101,Participant 101,participant101@outlook.com,Estado de México,26,Male,,Employability Skills,2025-03-14,2025-04-17,Dropped,122.9,83.0,,No,5252.78,6934.09,1
+P0102,Participant 102,participant102@outlook.com,EdoMex,25,Male,Posgrado,Excel for Business,2025-05-05,2025-07-15,Dropped,78.9,84.0,No,Yes,5437.43,8109.41,1
+P0103,Participant 103,participant103@outlook.com,EdoMex,-3,F,Secundaria,Python Basics,2025-05-14,2025-07-04,Dropped,74.6,82.7,,no,6824.23,8140.28,
+P0104,Participant 104,participant104@outlook.com,Yucatán,12,,Preparatoria,Data Analytics,2025-01-04,2025-01-27,Dropped,65.6,81.2,,,3966.49,4622.04,4
+P0105,Participant 105,participant105@example.org,Jalisco,29,M,Secundaria,Employability Skills,2025-05-10,30/07/2025,,51.3,65.6,no,No,4938.09,,1
+P0106,Participant 106,participant106@example.org,Puebla,28,Female,Secundaria,Excel for Business,2025-07-10,19/08/2025,COMPLETED,80.0,-5.0,No,Sí,5461.73,7704.45,
+P0107,Participant 107,,EdoMex,21,Female,Licenciatura,Data Analytics,2025-01-29,25/05/2025,,62.1,65.5,Sí,No,1466.1,1461.77,5
+P0108,Participant 108,participant108@outlook.com,Oaxaca,30,No especificado,,Digital Marketing,2025-07-12,26/10/2025,Dropped,103.4,96.6,,Yes,5580.01,5423.86,
+P0109,Participant 109,participant109@yahoo.com,Chiapas,21,F,Preparatoria,Excel for Business,04/04/2025,2025-07-28,In progress,,65.8,,yes,3070.96,2386.52,3
+P0110,Participant 110,participant110gmail.com,Cd. México,27,Male,Bachillerato,Python Basics,2025-04-24,2025-05-23,completed,81.1,84.9,,No,4971.66,5960.34,2
+P0111,Participant 111,participant111@gmail.com,Nuevo León,32,,,Employability Skills,2025-08-05,2025-09-15,Completed,110.4,71.8,,No,6398.02,6527.42,2
+P0112,Participant 112,participant112@yahoo.com,EdoMex,16,,Preparatoria,Excel for Business,2025-08-26,21/09/2025,Dropped,56.2,95.6,,No,2396.7,4686.67,
+P0113,Participant 113,participant113@outlook.com,Nuevo León,19,Female,Licenciatura,Excel for Business,2025-06-14,2025-09-02,Dropped,94.4,85.9,No,,3794.17,2841.19,
+P0114,Participant 114,participant114@outlook.com,Ciudad de México,23,F,Bachillerato,Employability Skills,2025-05-12,2025-09-07,Dropped,80.9,71.7,,No,8817.02,10461.67,4
+P0115,Participant 115,participant115gmail.com,Puebla,34,Mujer,,Employability Skills,2025-03-16,2025-04-20,,85.1,96.4,No,No,3975.54,3762.72,4
+P0116,Participant 116,participant116@gmail.com,Nuevo León,27,Hombre,Universidad,Data Analytics,2025-02-07,2025-04-13,completed,63.3,56.9,yes,No,1954.09,"$7,200",2
+P0117,Participant 117,participant117@gmail.com,Yucatán,20,Mujer,Secundaria,Excel for Business,18/02/2025,11/05/2025,,124.0,100.5,No,,10515.23,13558.54,5
+P0118,Participant 118,participant118@example.org,EdoMex,27,M,,Digital Marketing,2025-08-08,2025-10-13,completed,95.1,90.2,no,No,3707.94,1548.17,4
+P0119,Participant 119,participant119@yahoo.com,Nuevo León,35,Hombre,Posgrado,Data Analytics,2025-07-24,2025-11-14,COMPLETED,58.6,95.8,Yes,No,4739.44,3683.41,3
+P0120,Participant 120,participant120@example.org,Puebla,26,Mujer,,Python Basics,2025-08-19,2025-10-16,Completed,96.6,79.7,Yes,Sí,2575.21,-1394.86,4
+P0121,Participant 121,participant121@gmail.com,Jalisco,20,Mujer,Posgrado,Data Analytics,2025-08-08,2025-09-10,,86.4,91.2,No,,8567.33,9587.05,
+P0122,Participant 122,participant122@gmail.com,Yucatán,22,,,Digital Marketing,2025-07-29,2025-09-18,Completed,68.5,81.8,Yes,Sí,0,2791.28,2
+P0123,Participant 123,participant123@yahoo.com,Chiapas,14,,,Data Analytics,2025-06-18,2025-08-09,In progress,68.5,91.5,,Yes,2364.28,4403.85,3
+P0124,Participant 124,,Cd. México,23,Mujer,,Digital Marketing,2025-07-17,2025-11-11,completed,96.3,114.0,No,yes,5941.1,6480.45,1
+P0125,Participant 125,participant125@outlook.com,Cd. México,26,Mujer,Secundaria,Python Basics,2025-07-11,2025-08-31,,94.3,89.4,,No,10643.74,11514.53,1
+P0126,Participant 126,participant126@,Ciudad de México,32,,Preparatoria,Excel for Business,10/07/2025,2025-10-03,,52.0,83.1,no,No,4770.47,3156.73,
+P0127,Participant 127,participant127@yahoo.com,Oaxaca,22,Mujer,,Digital Marketing,2025-06-13,2025-09-25,,135.5,76.9,yes,yes,8371.11,9775.0,2
+P0128,Participant 128,participant128@example.org,Oaxaca,15,M,,Excel for Business,08/08/2025,2025-08-28,COMPLETED,28.3,94.8,,yes,7472.25,8182.81,
+P0129,Participant 129,participant129@gmail.com,EdoMex,20,No especificado,Posgrado,Python Basics,2025-08-11,28/10/2025,Dropped,95.0,71.7,Sí,,8355.96,10217.5,
+P0130,Participant 130,participant130@gmail.com,EdoMex,20,Mujer,,Excel for Business,2025-06-21,2025-07-21,,88.4,85.9,Sí,no,6177.44,7924.99,5
+P0131,Participant 131,participant131@example.org,Jalisco,28,Hombre,,Digital Marketing,2025-03-16,2025-05-31,Abandoned,67.8,76.5,Yes,Sí,4745.29,7488.06,
+P0132,Participant 132,participant132@outlook.com,Chiapas,22,No especificado,Licenciatura,Digital Marketing,2025-03-28,2025-06-18,Completed,105.0,90.0,No,No,3192.17,5299.04,3
+P0133,Participant 133,participant133@example.org,Nuevo León,20,M,,Data Analytics,2025-04-08,2025-06-12,COMPLETED,74.5,86.1,Yes,yes,,8796.83,5
+P0134,Participant 134,participant134@yahoo.com,Ciudad de México,26,,Preparatoria,Python Basics,20/07/2025,2025-09-05,,68.4,80.9,,No,4411.94,6963.0,1
+P0135,Participant 135,participant135@,Nuevo León,29,M,Preparatoria,Digital Marketing,2025-07-06,11/10/2025,Dropped,68.5,86.1,,Yes,3885.57,1692.21,3
+P0136,Participant 136,participant136@gmail.com,Jalisco,22,,,Employability Skills,2025-03-05,2025-05-13,,95.1,102.5,,,,7366.96,
+P0137,Participant 137,,CDMX,23,Female,Licenciatura,Employability Skills,2025-04-02,2025-05-19,In progress,50.6,68.6,no,Sí,5225.16,9003.07,
+P0138,Participant 138,participant138@gmail.com,Nuevo León,22,Female,Preparatoria,Digital Marketing,2025-04-16,2025-07-09,COMPLETED,74.3,61.0,No,No,5765.45,6120.26,
+P0139,Participant 139,participant139@gmail.com,CDMX,8,Hombre,Secundaria,Employability Skills,2025-07-11,30/09/2025,Abandoned,51.9,110.0,,yes,5802.79,6129.85,3
+P0140,Participant 140,participant140@example.org,Cd. México,28,Male,,Python Basics,2025-06-17,2025-07-25,COMPLETED,93.3,75.1,,Yes,5339.82,5477.32,2
+P0141,Participant 141,participant141@outlook.com,Ciudad de México,14,No especificado,Licenciatura,Digital Marketing,2025-05-07,2025-07-01,COMPLETED,94.1,76.2,,Yes,5866.98,9968.98,2
+P0142,Participant 142,participant142@example.org,Yucatán,29,Mujer,,Employability Skills,2025-05-01,2025-06-28,Completed,87.2,80.0,No,yes,5253.53,6487.46,
+P0143,Participant 143,participant143@yahoo.com,Yucatán,95,,Bachillerato,Data Analytics,2025-02-07,2025-03-26,,80.0,80.5,No,Sí,795.38,2283.12,3
+P0144,Participant 144,participant144@yahoo.com,Yucatán,17,No especificado,Universidad,Digital Marketing,16/03/2025,2025-05-22,Dropped,98.1,83.6,,yes,10977.06,9695.71,2
+P0145,Participant 145,participant145@example.org,Ciudad de México,27,Male,,Python Basics,2025-08-27,2025-12-19,Abandoned,34.9,77.1,,no,5823.53,,5
+P0146,Participant 146,participant146@yahoo.com,EdoMex,11,F,,Employability Skills,2025-04-17,2025-07-09,Completed,100.0,83.3,,no,2713.13,4088.95,5
+P0147,Participant 147,participant147@gmail.com,Chiapas,23,,Universidad,Excel for Business,2025-05-06,2025-06-11,Abandoned,56.8,65.2,No,no,1867.09,3092.87,2
+P0148,Participant 148,participant148@outlook.com,Chiapas,24,Mujer,Bachillerato,Data Analytics,2025-06-23,2025-08-02,Completed,109.2,108.8,yes,yes,2841.49,2469.35,3
+P0149,Participant 149,participant149@example.org,CDMX,17,Hombre,Bachillerato,Data Analytics,26/03/2025,2025-04-22,Dropped,82.3,51.6,no,No,4784.99,7966.72,3
+P0150,Participant 150,,Cd. México,35,Male,Bachillerato,Python Basics,2025-01-12,2025-04-11,Abandoned,82.8,103.2,yes,,6172.82,6755.07,5
+P0151,Participant 151,participant151@yahoo.com,Cd. México,30,Mujer,,Employability Skills,2025-07-25,2025-11-12,Abandoned,77.1,71.1,,yes,3865.58,1221.37,
+P0152,Participant 152,participant152gmail.com,Puebla,42,Female,Bachillerato,Excel for Business,2025-07-27,19/11/2025,,99.0,79.5,No,yes,6983.89,2891.19,
+P0153,Participant 153,participant153gmail.com,Nuevo León,37,F,Universidad,Python Basics,2025-05-16,2025-06-09,completed,86.3,96.6,No,,3330.0,,4
+P0154,Participant 154,participant154@yahoo.com,Yucatán,15,Mujer,,Employability Skills,2025-02-14,2025-05-05,completed,74.0,71.5,no,No,10773.61,13385.89,
+P0155,Participant 155,participant155@example.org,CDMX,23,,Posgrado,Python Basics,2025-08-19,2025-10-30,In progress,48.9,68.8,yes,,7090.73,N/A,
+P0156,Participant 156,participant156@example.org,EdoMex,15,No especificado,Preparatoria,Excel for Business,2025-05-28,2025-07-18,Completed,70.7,65.4,,,5158.04,8319.74,1
+P0157,Participant 157,participant157.com,Puebla,17,Female,Preparatoria,Excel for Business,2025-04-03,2025-05-18,COMPLETED,59.7,84.7,,No,6568.64,6032.91,4
+P0158,Participant 158,participant158@example.org,Jalisco,29,,,Python Basics,2025-07-15,2025-11-11,COMPLETED,40.7,76.9,no,yes,5076.38,6545.66,4
+P0159,Participant 159,participant159@gmail.com,Puebla,27,No especificado,Universidad,Data Analytics,2025-04-11,2025-06-02,Abandoned,74.9,82.9,Yes,,4112.82,3796.5,2
+P0160,Participant 160,participant160@example.org,Puebla,26,Male,Posgrado,Data Analytics,2025-08-28,2025-10-04,Abandoned,74.7,61.1,Yes,Sí,0,1145.69,5
+P0161,Participant 161,participant161@gmail.com,Nuevo León,22,Mujer,Licenciatura,Data Analytics,2025-05-17,2025-09-01,,83.9,72.0,No,,9042.61,,1
+P0162,Participant 162,participant162@outlook.com,Yucatán,27,F,Secundaria,Employability Skills,22/02/2025,2025-04-26,In progress,80.5,77.9,Sí,no,5783.67,6424.31,2
+P0163,Participant 163,participant163@outlook.com,Ciudad de México,-3,,Licenciatura,Python Basics,2025-07-28,2025-11-16,In progress,79.5,89.9,Sí,yes,4811.22,8552.6,
+P0164,Participant 164,participant164.com,Cd. México,20,F,Universidad,Excel for Business,2025-01-16,2025-04-25,COMPLETED,73.7,-5.0,Sí,Yes,5754.64,9742.88,5
+P0165,Participant 165,participant165@yahoo.com,Cd. México,25,Female,Secundaria,Excel for Business,2025-08-06,2025-08-29,Completed,82.4,62.8,Yes,Sí,3428.76,4442.9,3
+P0166,Participant 166,participant166@outlook.com,Chiapas,14,Hombre,Secundaria,Excel for Business,2025-02-14,2025-05-27,Dropped,87.7,82.6,yes,No,4562.01,5190.12,1
+P0167,Participant 167,participant167@example.org,Oaxaca,33,Female,Preparatoria,Digital Marketing,21/02/2025,2025-05-26,,59.7,79.2,,,6665.9,N/A,
+P0168,Participant 168,participant168.com,Oaxaca,24,Female,,Python Basics,2025-01-03,2025-04-26,In progress,86.2,80.2,No,No,6204.34,10227.35,5
+P0169,Participant 169,participant169@gmail.com,Yucatán,18,,Universidad,Digital Marketing,2025-03-17,2025-04-16,Completed,85.3,101.4,no,yes,2753.24,-709.74,1
+P0170,Participant 170,,Nuevo León,23,No especificado,Preparatoria,Digital Marketing,2025-04-04,2025-06-27,,87.6,91.1,yes,Sí,8124.96,8752.95,1
+P0171,Participant 171,participant171@gmail.com,Jalisco,27,M,Preparatoria,Excel for Business,2025-06-04,2025-09-24,Dropped,85.5,75.4,,yes,8674.2,9982.78,5
+P0172,Participant 172,,Oaxaca,16,Hombre,,Python Basics,2025-04-23,2025-08-11,Dropped,91.4,,Sí,,2139.71,453.84,4
+P0173,Participant 173,participant173@example.org,Ciudad de México,31,Female,Licenciatura,Digital Marketing,2025-05-19,2025-08-02,,43.5,87.8,Yes,Yes,7143.81,9138.37,2
+P0174,Participant 174,participant174@example.org,Jalisco,18,,,Digital Marketing,2025-08-09,2025-09-05,completed,92.0,78.5,Sí,No,5181.13,9101.21,3
+P0175,Participant 175,participant175@yahoo.com,Yucatán,8,Mujer,Posgrado,Excel for Business,2025-06-30,2025-09-19,,81.6,96.8,No,no,2822.37,,1
+P0176,Participant 176,participant176gmail.com,Ciudad de México,25,No especificado,Preparatoria,Employability Skills,2025-06-18,2025-09-14,COMPLETED,62.4,-5.0,no,yes,4015.51,3477.15,5
+P0177,Participant 177,participant177@gmail.com,Chiapas,20,,Posgrado,Data Analytics,2025-02-01,2025-04-20,,91.2,65.5,No,Sí,4339.45,4903.16,3
+P0178,Participant 178,participant178@example.org,CDMX,17,Mujer,Universidad,Employability Skills,2025-03-22,2025-07-07,completed,37.7,78.5,yes,Sí,9141.77,10903.04,5
+P0179,Participant 179,participant179@outlook.com,Cd. México,22,,Licenciatura,Data Analytics,2025-02-18,2025-05-24,Abandoned,82.0,79.5,Yes,Sí,5330.31,7685.58,
+P0180,Participant 180,participant180@yahoo.com,Ciudad de México,17,Mujer,Licenciatura,Digital Marketing,11/06/2025,2025-08-30,Completed,101.2,41.4,Yes,yes,4502.12,6241.85,5
+P0181,Participant 181,participant181@yahoo.com,CDMX,25,M,Universidad,Employability Skills,2025-06-21,2025-08-02,Abandoned,111.2,79.8,,,629.13,2586.11,3
+P0182,Participant 182,participant182@,Cd. México,22,No especificado,Preparatoria,Excel for Business,2025-02-22,2025-05-27,Completed,85.7,79.8,yes,No,3843.04,"$7,200",1
+P0183,Participant 183,participant183@outlook.com,Nuevo León,30,No especificado,,Employability Skills,2025-08-03,2025-09-05,COMPLETED,74.7,73.9,No,Sí,4916.58,6413.12,3
+P0184,Participant 184,participant184@yahoo.com,Chiapas,23,Female,Secundaria,Excel for Business,2025-07-31,2025-09-29,COMPLETED,85.6,110.0,No,Sí,6470.43,7740.14,
+P0185,Participant 185,,CDMX,26,Female,Universidad,Digital Marketing,2025-08-15,08/11/2025,,122.2,104.5,,,6723.14,7713.21,4
+P0186,Participant 186,,Puebla,19,No especificado,Universidad,Excel for Business,2025-01-10,2025-03-23,completed,99.4,94.2,no,yes,8044.15,9732.84,3
+P0187,Participant 187,participant187@example.org,Ciudad de México,26,Mujer,,Python Basics,2025-04-16,2025-06-06,Dropped,54.1,79.2,Yes,Yes,5391.31,7621.01,1
+P0188,Participant 188,participant188@gmail.com,CDMX,16,Male,Universidad,Excel for Business,2025-04-02,2025-05-08,COMPLETED,62.4,80.3,no,,4408.09,,
+P0189,Participant 189,participant189@yahoo.com,EdoMex,27,Hombre,Preparatoria,Data Analytics,2025-05-07,2025-06-14,,57.7,70.3,Yes,yes,806.39,-1087.36,
+P0190,Participant 190,participant190@example.org,Cd. México,31,M,,Python Basics,2025-07-07,2025-08-23,In progress,47.8,83.1,No,No,2059.89,2648.61,5
+P0191,Participant 191,participant191@yahoo.com,Ciudad de México,21,No especificado,Secundaria,Digital Marketing,2025-07-05,2025-09-19,Completed,102.5,82.0,yes,Sí,8680.15,9166.57,4
+P0192,Participant 192,participant192@yahoo.com,Chiapas,32,No especificado,,Digital Marketing,2025-07-18,2025-10-12,Dropped,-10.0,69.9,No,No,5606.21,4999.21,1
+P0193,Participant 193,,CDMX,17,Hombre,Bachillerato,Python Basics,2025-02-05,2025-04-14,,57.9,56.3,no,,6832.08,6829.55,
+P0194,Participant 194,participant194@yahoo.com,Ciudad de México,30,No especificado,Preparatoria,Excel for Business,2025-02-26,2025-06-11,,97.2,56.3,No,Sí,7804.5,9873.34,5
+P0195,Participant 195,participant195@example.org,Oaxaca,19,Female,,Employability Skills,2025-06-09,2025-08-09,Abandoned,104.6,89.4,no,No,6526.83,8400.53,2
+P0196,Participant 196,participant196@yahoo.com,Cd. México,12,Female,Preparatoria,Python Basics,2025-04-17,2025-05-15,In progress,73.4,77.9,,No,3333.19,2326.81,
+P0197,Participant 197,participant197@yahoo.com,Jalisco,30,M,Licenciatura,Data Analytics,2025-05-08,2025-08-23,COMPLETED,97.0,94.2,,,4896.92,6550.23,3
+P0198,Participant 198,participant198@outlook.com,Chiapas,18,M,Preparatoria,Excel for Business,2025-06-09,24/07/2025,,78.7,-5.0,Yes,yes,5385.75,5208.76,4
+P0199,Participant 199,,Chiapas,31,,Posgrado,Employability Skills,2025-06-30,2025-09-03,COMPLETED,80.4,57.0,No,Sí,5032.83,6833.54,4
+P0200,Participant 200,participant200@gmail.com,Puebla,22,,Universidad,Employability Skills,2025-07-11,2025-10-31,Completed,93.3,55.0,Yes,Yes,5015.13,5021.18,3
+P0201,Participant 201,participant201@yahoo.com,Puebla,16,,Secundaria,Data Analytics,02/03/2025,2025-06-08,Abandoned,51.5,103.1,yes,,"$5,000",5616.76,
+P0202,Participant 202,participant202@yahoo.com,Ciudad de México,36,Female,,Digital Marketing,2025-05-07,2025-08-26,Completed,39.0,85.7,yes,Sí,7171.62,6719.2,4
+P0203,Participant 203,participant203@outlook.com,Jalisco,16,,Bachillerato,Data Analytics,2025-08-25,2025-11-11,,113.8,101.1,Sí,Sí,6140.64,5891.54,1
+P0204,Participant 204,participant204@yahoo.com,Ciudad de México,33,,Bachillerato,Data Analytics,2025-07-14,2025-09-09,In progress,115.4,99.1,,No,5295.82,7473.9,
+P0205,Participant 205,participant205@example.org,Puebla,23,,Bachillerato,Employability Skills,2025-05-16,2025-06-05,Abandoned,101.2,89.4,,No,6820.98,9219.03,3
+P0206,Participant 206,participant206@example.org,Nuevo León,28,Hombre,Secundaria,Employability Skills,2025-03-18,2025-04-24,completed,86.0,95.3,Yes,,5669.98,4293.78,3
+P0207,Participant 207,participant207@example.org,EdoMex,28,Mujer,Bachillerato,Employability Skills,04/02/2025,2025-05-20,completed,89.0,-5.0,yes,Sí,4889.8,6690.75,5
+P0208,Participant 208,participant208@outlook.com,Jalisco,32,Mujer,,Excel for Business,2025-03-15,2025-06-03,completed,97.3,106.2,No,yes,5862.22,7105.25,3
+P0209,Participant 209,participant209@example.org,Yucatán,26,Hombre,Bachillerato,Python Basics,2025-08-03,2025-11-05,completed,40.2,89.5,yes,,7713.08,12430.56,
+P0210,Participant 210,participant210@example.org,Oaxaca,20,Hombre,Secundaria,Employability Skills,2025-04-03,07/06/2025,Dropped,54.4,92.4,no,Yes,6907.2,6523.53,2
+P0211,Participant 211,participant211@outlook.com,Jalisco,33,,Licenciatura,Excel for Business,2025-01-26,2025-04-30,COMPLETED,93.4,82.5,No,Sí,6895.35,8529.73,2
+P0212,Participant 212,participant212@yahoo.com,Ciudad de México,15,,Secundaria,Employability Skills,2025-06-25,2025-08-10,COMPLETED,63.5,80.2,,No,2673.46,4994.34,5
+P0213,Participant 213,participant213@example.org,Cd. México,25,M,Bachillerato,Python Basics,03/02/2025,2025-03-14,COMPLETED,92.8,75.8,Yes,Yes,5008.83,5838.28,
+P0214,Participant 214,participant214@example.org,CDMX,19,No especificado,Posgrado,Excel for Business,2025-02-25,2025-05-15,,84.0,82.2,no,,4471.53,4800.24,5
+P0215,Participant 215,participant215@yahoo.com,Puebla,29,Male,Licenciatura,Employability Skills,2025-08-22,2025-11-06,,105.0,73.5,no,,8020.0,9429.59,
+P0216,Participant 216,participant216@yahoo.com,Yucatán,23,,,Employability Skills,2025-08-01,2025-11-10,,89.3,57.5,No,,9292.03,N/A,5
+P0217,Participant 217,,Nuevo León,30,M,Licenciatura,Python Basics,2025-01-14,2025-05-08,COMPLETED,101.2,86.5,,No,3728.04,5005.32,
+P0218,Participant 218,participant218@yahoo.com,CDMX,32,,Posgrado,Python Basics,2025-06-15,2025-09-14,completed,65.9,77.2,yes,no,0,742.12,
+P0219,Participant 219,participant219@gmail.com,EdoMex,22,Female,Bachillerato,Employability Skills,2025-03-22,2025-06-03,,91.3,111.8,no,Sí,11167.95,14796.74,5
+P0220,Participant 220,participant220@outlook.com,Nuevo León,33,Female,Licenciatura,Digital Marketing,2025-01-30,2025-03-03,Abandoned,80.6,88.9,Sí,,7661.32,11595.32,1
+P0221,Participant 221,participant221@example.org,CDMX,20,No especificado,Posgrado,Excel for Business,01/01/2025,2025-03-05,,58.0,82.3,,,7716.83,9018.24,1
+P0222,Participant 222,participant222@yahoo.com,Estado de México,20,F,Posgrado,Data Analytics,2025-06-20,2025-10-12,Abandoned,67.7,86.0,No,no,8553.09,8876.21,
+P0223,Participant 223,participant223@,Cd. México,28,F,Universidad,Digital Marketing,2025-05-27,2025-08-10,COMPLETED,80.0,100.4,yes,,5844.61,7954.34,
+P0224,Participant 224,participant224@example.org,Puebla,25,F,Preparatoria,Data Analytics,2025-07-05,2025-10-31,Dropped,62.0,93.5,no,No,7978.15,11047.23,2
+P0225,Participant 225,participant225@outlook.com,Oaxaca,25,,,Data Analytics,2025-03-08,2025-04-20,Dropped,78.5,76.3,,no,4423.53,4039.13,2
+P0226,Participant 226,participant226@yahoo.com,Ciudad de México,16,F,Licenciatura,Digital Marketing,2025-03-25,2025-04-25,,93.6,84.0,,Yes,3127.71,7472.96,1
+P0227,Participant 227,participant227@gmail.com,Puebla,19,,Secundaria,Python Basics,2025-06-29,2025-10-05,In progress,67.0,96.7,No,Sí,4852.86,2775.77,
+P0228,Participant 228,participant228@outlook.com,EdoMex,25,No especificado,Secundaria,Python Basics,2025-05-18,03/09/2025,Abandoned,73.0,90.6,No,Sí,6160.05,9650.29,2
+P0229,Participant 229,participant229@example.org,Cd. México,22,Female,Posgrado,Data Analytics,2025-04-18,2025-07-22,Completed,81.0,84.1,yes,,3409.28,5863.4,4
+P0230,Participant 230,participant230@example.org,Jalisco,29,Mujer,Secundaria,Employability Skills,2025-05-09,2025-07-22,completed,69.7,110.0,No,Sí,4063.63,"$7,200",3
+P0231,Participant 231,participant231@outlook.com,Yucatán,26,Female,Posgrado,Excel for Business,2025-06-12,2025-07-15,Completed,63.6,76.1,No,No,6550.29,8259.31,3
+P0232,Participant 232,participant232@,Yucatán,22,,,Excel for Business,2025-01-20,2025-02-14,COMPLETED,44.3,77.3,No,No,,11063.09,1
+P0233,Participant 233,participant233@example.org,CDMX,34,Mujer,Licenciatura,Data Analytics,2025-06-25,2025-08-27,In progress,87.0,85.2,no,yes,3232.48,4042.87,1
+P0234,Participant 234,participant234@yahoo.com,EdoMex,20,,,Python Basics,08/08/2025,2025-09-12,,72.8,72.6,No,Sí,5086.18,5063.29,3
+P0235,Participant 235,participant235@gmail.com,Yucatán,24,Male,Universidad,Employability Skills,2025-05-26,2025-08-22,Completed,96.3,86.2,yes,,4860.17,8526.91,
+P0236,Participant 236,participant236.com,EdoMex,32,Female,Posgrado,Digital Marketing,2025-04-30,21/07/2025,,82.6,77.5,,,1195.07,3047.24,
+P0237,Participant 237,participant237@example.org,Jalisco,23,M,,Digital Marketing,2025-03-01,2025-06-04,Abandoned,85.6,94.5,no,No,6958.86,,
+P0238,Participant 238,participant238@yahoo.com,Ciudad de México,29,No especificado,Preparatoria,Digital Marketing,2025-01-25,28/04/2025,COMPLETED,86.0,68.2,,,2595.54,3285.89,5
+P0239,Participant 239,participant239@yahoo.com,Ciudad de México,30,Female,Posgrado,Employability Skills,2025-01-06,2025-03-23,Dropped,107.8,87.9,No,No,,2368.09,4
+P0240,Participant 240,participant240@example.org,Cd. México,31,,Posgrado,Digital Marketing,2025-08-20,2025-09-20,Completed,84.2,81.1,yes,,6683.68,7401.93,
+P0241,Participant 241,participant241@yahoo.com,Chiapas,17,No especificado,Universidad,Data Analytics,2025-05-23,2025-09-19,completed,62.6,64.7,No,No,7643.33,10358.04,
+P0242,Participant 242,participant242@example.org,Jalisco,26,,Bachillerato,Data Analytics,2025-01-30,2025-04-04,COMPLETED,87.5,78.9,,no,3025.97,3786.94,
+P0243,Participant 243,participant243gmail.com,Cd. México,16,Female,Licenciatura,Employability Skills,16/03/2025,11/05/2025,Abandoned,58.3,92.3,no,Yes,,5834.0,4
+P0244,Participant 244,participant244@gmail.com,Chiapas,-3,M,,Employability Skills,2025-02-01,2025-04-27,Abandoned,82.4,46.6,,,5608.82,9703.77,4
+P0245,Participant 245,participant245@outlook.com,Oaxaca,24,Hombre,,Employability Skills,2025-07-22,2025-11-10,Dropped,-10.0,62.0,Sí,no,4170.85,6370.91,2
+P0246,Participant 246,participant246@gmail.com,Cd. México,38,,,Python Basics,2025-02-11,2025-04-11,completed,83.1,112.0,No,yes,"$5,000",3565.17,3
+P0247,Participant 247,participant247@example.org,Estado de México,28,Mujer,,Excel for Business,2025-01-10,2025-05-05,completed,55.3,74.1,,No,6355.88,,2
+P0248,Participant 248,participant248@gmail.com,Puebla,34,M,,Data Analytics,2025-04-13,2025-05-26,Abandoned,99.5,93.0,Yes,No,8639.93,9085.44,
+P0249,Participant 249,participant249.com,Ciudad de México,25,,Universidad,Employability Skills,2025-05-31,23/09/2025,COMPLETED,72.1,92.6,,Yes,7254.69,10027.28,
+P0250,Participant 250,participant250@yahoo.com,Oaxaca,21,Male,Preparatoria,Excel for Business,2025-02-13,2025-06-10,COMPLETED,105.0,69.4,Yes,Sí,6005.72,6771.56,2
+P0143,Participant 143,participant143@yahoo.com,Yucatán,95,,Bachillerato,Data Analytics,2025-02-07,2025-03-26,,80.0,80.5,No,Sí,795.38,2283.12,3
+P0007,Participant 7,participant7@gmail.com,Oaxaca,29,Mujer,Posgrado,Python Basics,2025-05-31,2025-07-04,In progress,92.3,122.5,No,no,3199.02,1845.27,
+P0098,Participant 98,participant98@outlook.com,Nuevo León,19,Male,Universidad,Python Basics,2025-01-08,2025-02-18,Abandoned,84.0,92.0,yes,No,7237.49,11941.27,4
+P0061,Participant 61,participant61@example.org,CDMX,26,,Licenciatura,Employability Skills,28/06/2025,2025-10-19,,59.1,69.4,,No,1048.61,"$7,200",1
+P0113,Participant 113,participant113@outlook.com,Nuevo León,19,Female,Licenciatura,Excel for Business,2025-06-14,2025-09-02,Dropped,94.4,85.9,No,,3794.17,2841.19,
+P0182,Participant 182,participant182@,Cd. México,22,No especificado,Preparatoria,Excel for Business,2025-02-22,2025-05-27,Completed,85.7,79.8,yes,No,3843.04,"$7,200",1
+P0198,Participant 198,participant198@outlook.com,Chiapas,18,M,Preparatoria,Excel for Business,2025-06-09,24/07/2025,,78.7,-5.0,Yes,yes,5385.75,5208.76,4
+P0185,Participant 185,,CDMX,26,Female,Universidad,Digital Marketing,2025-08-15,08/11/2025,,122.2,104.5,,,6723.14,7713.21,4
+P0010,Participant 10,participant10@yahoo.com,Yucatán,26,Female,Bachillerato,Python Basics,2025-06-09,2025-09-06,In progress,105.0,70.1,No,no,5019.1,6761.89,2
+P0105,Participant 105,participant105@example.org,Jalisco,29,M,Secundaria,Employability Skills,2025-05-10,30/07/2025,,51.3,65.6,no,No,4938.09,,1
+P0149,Participant 149,,CDMX,17,Hombre,Bachillerato,Data Analytics,26/03/2025,2025-04-22,Dropped,82.3,51.6,no,No,4784.99,7966.72,3
+P0097,Participant 97,,Yucatán,15,,,Data Analytics,18/02/2025,2025-05-08,completed,43.6,85.6,,Sí,4164.63,3383.23,3
+P0178,Participant 178,,CDMX,17,Mujer,Universidad,Employability Skills,2025-03-22,2025-07-07,completed,37.7,78.5,yes,Sí,9141.77,10903.04,5
+P0226,Participant 226,,Ciudad de México,16,F,Licenciatura,Digital Marketing,2025-03-25,2025-04-25,,93.6,84.0,,Yes,3127.71,7472.96,1
+P0237,Participant 237,,Jalisco,23,M,,Digital Marketing,2025-03-01,2025-06-04,Abandoned,85.6,94.5,no,No,6958.86,,

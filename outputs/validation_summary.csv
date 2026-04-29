@@ -1,0 +1,29 @@
+﻿check,issue_count,description
+Total rows,265,Total number of rows in the raw dataset.
+Missing values - participant_id,0,Number of missing or blank values in participant_id.
+Missing values - full_name,0,Number of missing or blank values in full_name.
+Missing values - email,20,Number of missing or blank values in email.
+Missing values - state,0,Number of missing or blank values in state.
+Missing values - age,0,Number of missing or blank values in age.
+Missing values - gender,68,Number of missing or blank values in gender.
+Missing values - education_level,68,Number of missing or blank values in education_level.
+Missing values - program,0,Number of missing or blank values in program.
+Missing values - start_date,0,Number of missing or blank values in start_date.
+Missing values - end_date,0,Number of missing or blank values in end_date.
+Missing values - status,65,Number of missing or blank values in status.
+Missing values - attendance_pct,3,Number of missing or blank values in attendance_pct.
+Missing values - final_score,3,Number of missing or blank values in final_score.
+Missing values - employed_before,68,Number of missing or blank values in employed_before.
+Missing values - employed_after,55,Number of missing or blank values in employed_after.
+Missing values - income_before,6,Number of missing or blank values in income_before.
+Missing values - income_after,18,Number of missing or blank values in income_after.
+Missing values - satisfaction_score,71,Number of missing or blank values in satisfaction_score.
+Fully duplicated rows,10,Rows that are exact duplicates across all columns.
+Duplicated participant_id,15,Records with repeated participant identifiers.
+Invalid emails,42,Emails that do not follow a valid email format.
+Invalid age,44,"Ages below 17, above 65 or non-numeric."
+Invalid attendance_pct,44,"Attendance values below 0, above 100 or non-numeric."
+Invalid final_score,38,"Final scores below 0, above 100 or non-numeric."
+Invalid start_date,0,Start dates that could not be parsed.
+Invalid end_date,0,End dates that could not be parsed.
+End date before start date,6,Records where end_date occurs before start_date.
