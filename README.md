@@ -1,160 +1,48 @@
-# Data Cleaning and Documentation Pipeline
+# Data cleaning, validation and documentation pipeline
 
-This project demonstrates a reproducible data cleaning, validation and documentation workflow using a synthetic dataset.
+A Python project that takes a messy participant database and turns it into a clean, documented dataset ready for analysis. I built it around problems that are common in administrative and program-monitoring data: duplicates, inconsistent labels, impossible values and mixed date formats.
 
-The dataset simulates common data quality issues found in real-world administrative databases, such as missing values, duplicated records, inconsistent categorical labels, invalid emails, mixed date formats and out-of-range numeric values.
+## The data
 
-## Objective
+The dataset is synthetic, so it can be shared. It simulates 265 records of participants from a social impact training program, with demographic, attendance, performance, employment, income and satisfaction variables. The first script generates it with the errors on purpose.
 
-The objective of this project is to transform a raw and messy dataset into a clean, documented and analysis-ready dataset through a reproducible pipeline.
+## What I did
 
-This project is especially relevant for data analysis, social impact evaluation, program monitoring, reporting and institutional data management.
+- **Validation.** A script scans the raw file and writes a data quality report with every check and how many records fail it. Some of what it found:
 
-## Project structure
+  | Check | Records |
+  |---|---:|
+  | Fully duplicated rows | 10 |
+  | Repeated participant IDs | 15 |
+  | Invalid emails | 42 |
+  | Ages outside 17–65 or non-numeric | 44 |
+  | Attendance outside 0–100% | 44 |
+  | Final scores outside 0–100 | 38 |
+  | End date before start date | 6 |
 
-```text
-data-cleaning-documentation-pipeline/
-│
-├── data/
-│   ├── raw/
-│   │   └── messy_participants.csv
-│   ├── processed/
-│   │   └── clean_participants.csv
-│   └── data_dictionary.csv
-│
-├── outputs/
-│   ├── data_quality_report.md
-│   └── validation_summary.csv
-│
-├── scripts/
-│   ├── 01_generate_synthetic_data.py
-│   ├── 02_validate_data.py
-│   └── 03_clean_data.py
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+- **Cleaning.** Clear rules applied in order: drop exact duplicates, keep one record per participant ID, standardize states, gender, education level and program status, convert numbers and dates to consistent formats (`YYYY-MM-DD`), and set impossible values to missing instead of guessing them.
+- **Derived variables.** Program duration, change in income and change in employment status.
+- **Documentation.** A data dictionary that describes all 22 variables of the clean dataset, with type and notes.
 
-## Dataset description
+The result is a clean file with 250 participants, one row each.
 
-The synthetic dataset represents participants from a social impact training program. It includes demographic, program participation, attendance, performance, employment, income and satisfaction variables.
+## How it is organized
 
-The raw dataset intentionally contains data quality issues, including:
+- `scripts/01_generate_synthetic_data.py`: creates the messy raw data.
+- `scripts/02_validate_data.py`: runs the checks and writes [`outputs/data_quality_report.md`](outputs/data_quality_report.md) and `outputs/validation_summary.csv`.
+- `scripts/03_clean_data.py`: applies the cleaning rules and writes `data/processed/clean_participants.csv` and `data/data_dictionary.csv`.
 
-- Missing values
-- Duplicated rows
-- Duplicated participant IDs
-- Invalid email formats
-- Inconsistent state names
-- Inconsistent gender labels
-- Inconsistent education levels
-- Mixed date formats
-- Invalid numeric values
-- Out-of-range percentages and scores
+## How to reproduce it
 
-## Workflow
+You need Python 3:
 
-### 1. Generate synthetic raw data
-
-The first script creates a synthetic dataset with intentional data quality issues.
-
-```bash
+```sh
+python3 -m pip install -r requirements.txt
 python3 scripts/01_generate_synthetic_data.py
-```
-
-Output:
-
-```text
-data/raw/messy_participants.csv
-```
-
-### 2. Validate raw data
-
-The second script scans the raw dataset and produces a data quality report.
-
-```bash
 python3 scripts/02_validate_data.py
-```
-
-Outputs:
-
-```text
-outputs/data_quality_report.md
-outputs/validation_summary.csv
-```
-
-### 3. Clean and document the dataset
-
-The third script cleans the dataset and creates a data dictionary.
-
-```bash
 python3 scripts/03_clean_data.py
 ```
 
-Outputs:
+---
 
-```text
-data/processed/clean_participants.csv
-data/data_dictionary.csv
-```
-
-## Cleaning rules
-
-The cleaning pipeline applies the following rules:
-
-- Exact duplicate rows are removed.
-- Duplicated participant IDs are reduced to one record.
-- Invalid emails are identified and set to missing.
-- State names are standardized.
-- Gender labels are standardized.
-- Education levels are standardized.
-- Program status labels are standardized.
-- Employment variables are standardized to `Yes`, `No` or `Unknown`.
-- Numeric variables are converted to consistent numeric formats.
-- Invalid age values outside the range 17-65 are set to missing.
-- Attendance percentages outside 0-100 are set to missing.
-- Final scores outside 0-100 are set to missing.
-- Dates are parsed and standardized to `YYYY-MM-DD`.
-- Derived variables are created for program duration, income change and employment transition.
-
-## Main outputs
-
-### Clean dataset
-
-The clean dataset is located at:
-
-```text
-data/processed/clean_participants.csv
-```
-
-### Data dictionary
-
-The data dictionary is located at:
-
-```text
-data/data_dictionary.csv
-```
-
-### Data quality report
-
-The validation report is located at:
-
-```text
-outputs/data_quality_report.md
-```
-
-## Tools used
-
-- Python
-- pandas
-- numpy
-- Git
-- GitHub
-
-
-## Author
-
-Manuel Razo Alcántara  
-Actuarial Science student  
-Facultad de Ciencias, UNAM
+Manuel Razo Alcántara · [LinkedIn](https://www.linkedin.com/in/manuel-razo-alcantara) · Code under the [MIT License](LICENSE)
